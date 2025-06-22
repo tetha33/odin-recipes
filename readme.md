@@ -1,1 +1,1 @@
-This a nice and strong, beautiful introduction for this document writtne by an actual human :)
+This is a project to practice the basic HTML skills I've learned in the TOP Foundations Course, where I studied Git Basics, HTML Foundations, and basic elements such as headings, paragraphs, lists, links, and images.
